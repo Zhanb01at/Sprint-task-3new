@@ -1,0 +1,19 @@
+div{
+    margin-bottom: 20px;
+}
+body{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+input{
+    padding: 1.5px;
+}
+.valuta label{
+    font-weight: bold;
+}
+.valuta input{
+    background-color: rgb(227, 227, 227);
+}
+.slct{
+    padding: 1.5px;
+}
